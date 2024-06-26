@@ -1,0 +1,19 @@
+.locations{
+    background-color:#fafad2 ;
+}
+
+
+*{
+    box-sizing: border-box;
+    
+}
+.column{
+    float: left;
+    width: 25%;
+    padding: 3px;
+}
+
+.column img{
+    height: 250px;
+
+}
